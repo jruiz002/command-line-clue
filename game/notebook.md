@@ -7,7 +7,7 @@
 
 ## Weapons
 - [x] Letter Opener
-- [ ] Old Key
+- [x] Old Key
 - [ ] Walking Stick
 
 ## Notes
