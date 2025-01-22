@@ -6,7 +6,7 @@
 - [ ] The Blacksmith
 
 ## Weapons
-- [ ] Letter Opener
+- [x] Letter Opener
 - [ ] Old Key
 - [ ] Walking Stick
 
