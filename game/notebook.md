@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Baker
 - [ ] The Banker
-- [ ] The Blacksmith
+- [x] The Blacksmith
 
 ## Weapons
 - [x] Letter Opener
