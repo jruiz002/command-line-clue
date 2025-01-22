@@ -1,0 +1,5 @@
+Investigation Update:
+
+A trail of scattered papers points deeper into the storage.
+
+Remember: Use 'cd "storage"' to follow this lead.
